@@ -1,4 +1,4 @@
-if you use windows, run:
+if you use windows (cmd), run:
 
     myenv\Scripts\activate
     cd back_end\
